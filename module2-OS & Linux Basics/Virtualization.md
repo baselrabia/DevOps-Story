@@ -42,6 +42,9 @@ Type 1 vs Type 2 Hypervisor
 
 - Why are companies adopting Virtualization?
     - abstraction of the operating system from the hardware
+        - secure very eaily
+        - portable VMI (vertial machine image) file which includes OS + All Apps 
+        - not depend on physical server
     - OS is "portable" file that you can move around: Virtual Machine Image
 
 
