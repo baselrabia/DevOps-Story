@@ -20,7 +20,7 @@
 ### Introduction to Command Line (CLI Part 1)
 - [ ] Watched video
 
-# Check your progress... 2/4
+## Check your progress... 2/4
 
 ### Basic Linux Commands (CLI Part 2)
 - [ ] Watched video
@@ -43,7 +43,7 @@ https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 - [ ] Watched video
 - [ ] Demo executed
 
-# Check your progress... 3/4
+## Check your progress... 3/4
 
 ### Users & Permissions - Part 2
 - [ ] Watched video
@@ -61,7 +61,7 @@ https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 - [ ] Watched video
 - [ ] Demo executed
 
-# Check your progress... 4/4
+## Check your progress... 4/4
 
 ### Environment Variables
 - [ ] Watched video
