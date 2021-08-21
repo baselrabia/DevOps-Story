@@ -1,6 +1,7 @@
-
-# module2-OS & Linux Basics
-
+ 
+ <h1 align="center">module2-OS & Linux Basics🥳</h1>
+ 
+## Check your progress... 1/4
 
 ### Introduction to Operating Systems
 - [ ] Watched video
