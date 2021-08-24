@@ -92,7 +92,7 @@ https://help.sonatype.com/repomanager2/configuration/managing-repositories
 ❏ Watched video
 
 ❏ Demo executed 
-   - create a new blob store
+   - ❏ create a new blob store
 
 ## Check your progress... 3/3
 ### Component vs Asset
