@@ -173,12 +173,11 @@ docker container exec -it containerName /bin/bash
 
 Workflow with Docker
 
-![workflow with docker](img/workflow-with-docker.png)
+![workflow-with-docker](https://user-images.githubusercontent.com/27627958/130590865-1d43405d-5967-4f07-aac3-f2f7ae3cd59a.png)
+
 
 
 ## 8. Developing with Docker
-
-- <https://techworld-with-nana.teachable.com/courses/1108792/lectures/28662263>
 
 ```sh
 # get project's source file from:
