@@ -74,6 +74,7 @@ netstat -lnpt
 https://help.sonatype.com/repomanager2/configuration/managing-repositories
 ### Publish Artifact to Nexus
 ❏ Watched video
+
 ❏ Demo executed
    - ❏ Created new User on Nexus with permission to upload artifacts
    - ❏ Java Gradle Project: Build Jar File & Upload Jar File to Nexus
@@ -81,6 +82,7 @@ https://help.sonatype.com/repomanager2/configuration/managing-repositories
 
 ### Nexus API & Repository URLs
 ❏ Watched video
+
 ❏ Demo executed
    - ❏ Queried Repositories
    - ❏ Queried components of a repository
@@ -88,13 +90,16 @@ https://help.sonatype.com/repomanager2/configuration/managing-repositories
 
 ### Blob Store
 ❏ Watched video
-   - ❏ Demo executed - create a new blob store
+
+❏ Demo executed 
+   - create a new blob store
 
 ## Check your progress... 3/3
 ### Component vs Asset
 ❏ Watched video
 ### Cleanup Policies
 ❏ Watched video
+
 ❏ Demo executed
    - ❏ Created new cleanup policy
    - ❏ Attached to a repository
