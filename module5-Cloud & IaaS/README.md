@@ -7,7 +7,15 @@
 ★ Deploy App on Droplet
 
 ★ Create a Linux User
-
+ 
+ ## Iaas => Infrastructure as a service (IaaS)
+ 
+ Infrastructure as a service (IaaS) is a type of cloud computing service that offers essential compute, storage, and networking resources on demand, on a pay-as-you-go basis. 
+ 
+ IaaS is one of the four types of cloud services, along with 
+ - software as a service (SaaS), 
+ - platform as a service (PaaS),
+ - serverless.
 
 ### Introduction to Cloud & IaaS
 ❏ Watched video
