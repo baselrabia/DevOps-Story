@@ -1,4 +1,4 @@
-# Artifact Repository Manager with Nexus
+<h1 align="center">module6-Nexus Artifact Repository Manager🥳</h1>
 
 ## 1. Intro to Artifact Repository Manager
 
