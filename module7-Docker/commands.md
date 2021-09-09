@@ -1,12 +1,6 @@
 <h1 align="center" > Docker Commands </h1>
 
-`docker pull nginx:1.10.0`
 
-`docker images`
-
-`sudo dpkg -l | grep nginx`
-
-___
 1. `docker ps`  # current containers
 2. `docker run` # create and start the container
 3. `docker create` # create container
@@ -22,3 +16,11 @@ ___
 11. `docker volume` # create a docker volume
 12. `docker network` # create a docker network
 13. `docker build` # build a new image from dockerfile
+
+___
+`docker pull nginx:1.10.0`
+
+`docker images`
+
+`sudo dpkg -l | grep nginx`
+
